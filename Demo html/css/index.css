@@ -1,0 +1,79 @@
+header,footer{
+    background-color: pink;
+    color: beige;
+}
+
+main{
+    background-color: plum;
+    background-image: url(../img/breakingnews.gif);
+}
+
+
+.titlePrincipal{
+    text-align: center;
+    font-size: 45px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.titleSecundary{
+    text-align: right;
+    font-size: 20px;
+    background-color: palevioletred;
+    color: azure;
+}
+
+.imageLogo{
+    width: 200px;
+}
+
+.imagebreakNews{
+    width: 400px;
+}
+
+.socialNetworking{
+    width: 30px;
+}
+
+ul{
+    background-color: aqua;
+}
+
+.firstList{
+    background-color: blue;
+}
+.secondList{
+    background-color: orangered;
+}
+.thirdList{
+    background-color: green;
+}
+ol{
+    background-color: violet;
+
+}
+
+li{
+    background-color: brown;
+    color: white;
+}
+
+
+.tdEmpty{
+    background-color: blanchedalmond;
+    width: 200px;
+}
+
+table{
+    margin: 0 auto;
+    font-size: 20px;
+    background-color: rgb(248, 255, 59);
+}
+
+.divTable{
+    background-color: greenyellow;
+    
+}
+
+.nones{
+    background-color: rgb(28, 255, 138);
+}
